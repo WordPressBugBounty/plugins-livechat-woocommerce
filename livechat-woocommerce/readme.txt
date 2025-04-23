@@ -1,9 +1,9 @@
 === WordPress Live Chat Plugin for WooCommerce - LiveChat ===
 Contributors: LiveChat
 Tags: woocommerce, chat plugin, live chat, woocommerce live chat, wordpress live chat
-Stable tag: 5.0.1
+Stable tag: 5.0.2
 Requires PHP: 7.2
-Tested up to: 6.7
+Tested up to: 6.8
 Requires at least: 4.4
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -150,12 +150,15 @@ Yes. Use our live chat to monitor multiple websites using a single account, and 
 == Screenshots ==
 
 1. Bring the best live chat for WordPress with you and help your online customers anytime, anywhere.
-2. By talking directly with customers, you can collect real-time customer feedback, boost sales, and manage customer relationships with ease.
-3. From the LiveChat dashboard you can monitor all traffic and actively initiate a chat whenever you feel your visitor needs help.
+2. Expand Your Reach: Connect with Customers on Messenger, WhatsApp, and Other Channels via LiveChat.
+3. Engage shoppers with coupons, deals, and announcements.
 4. Customize all of the settings and messaging of your live chat widget to match the style and look of your brand.
-5. LiveChat reports help you measure and prove the benefits of live chat for your sales and customer service.
+5. Engage shoppers anytime, anywhere with LiveChat's Mobile App.
 
 == Changelog ==
+
+= 5.0.2 =
+* checked plugin compatibility with WordPress 6.8
 
 = 5.0.1 =
 * added missing changelog entry
@@ -168,129 +171,3 @@ Yes. Use our live chat to monitor multiple websites using a single account, and 
 
 = 2.2.24 =
 * checked plugin compatibility with WordPress 6.7
-
-= 2.2.23 =
-* checked plugin compatibility with WordPress 6.6
-
-= 2.2.22 =
-* fixed deprecation warnings for PHP 8.2+
-
-= 2.2.21 =
-* fixed plugin attached if woocommerce is active
-
-= 2.2.20 =
-* checked plugin compatibility with WordPress 6.5
-
-= 2.2.19 =
-* update firebase/php-jwt package to 6.4.0
-
-= 2.2.18 =
-* pass variable instead of reference when calling JWT::decode
-
-= 2.2.17 =
-* fixed CSRF vulnerability
-
-= 2.2.16 =
-* fixed error with firebase/php-jwt package
-
-= 2.2.15 =
-* checked plugin compatibility with WordPress 6.4
-
-= 2.2.14 =
-* changelog and plugin cleanup
-
-= 2.2.13 =
-* fixed non escaped characters in regexes stored in config file
-
-= 2.2.12 =
-* checked plugin compatibility with WordPress 6.3
-
-= 2.2.11 =
-* checked plugin compatibility with WordPress 6.2.2
-* fixed setting custom variables if country is not set
-
-= 2.2.10 =
-* fix for 'Attempt to read property "slug" on array' for PHP v8+
-
-= 2.2.9 =
-* support for Elementor plugin v3.5+
-
-= 2.2.8 =
-* updated plugin description
-
-= 2.2.7 =
-* checked plugin compatibility with WordPress 6.1
-
-= 2.2.6 =
-* fix on hiding review notice
-
-= 2.2.5 =
-* checked plugin compatibility with WordPress 6.0
-
-= 2.2.4 =
-* checked plugin compatibility with WordPress 5.9
-
-= 2.2.3 =
-* fixed loading custom fonts in Elementor
-
-= 2.2.2 =
-* introduced prefixes to avoid naming collisions
-
-= 2.2.1 =
-* usage of Polyfill was removed
-
-= 2.2.0 =
-* compatibility with the Elementor plugin
-* bug fixes
-
-= 2.1.9 =
-* bug fixes
-
-= 2.1.8 =
-* support for Elementor plugin
-* hide chat widget in Elementor preview
-
-= 2.1.7 =
-* CDN for connect-bridge script
-
-= 2.1.6 =
-* connect-bridge update
-* tested WordPress version bump
-
-= 2.1.5 =
-* bug fixes
-
-= 2.1.4 =
-* bug fixes
-
-= 2.1.3 =
-* asynchronous chat widget loading
-* support for the new admin notices mechanism
-* WordPress 5.7 compatibility check
-
-= 2.1.2 =
-* bug fixes
-
-= 2.1.1 =
-* plugin compatibility bumped to WP in version 5.6
-
-= 2.1.0 =
-* auto-update feature
-
-= 2.0.4 =
-* plugin compatibility bumped to WP in version 5.5
-
-= 2.0.3 =
-* fix for not displaying cart content for not logged in customers
-
-= 2.0.2 =
-* fixed for invalid displaying tracking data for not logged in customers
-
-= 2.0.1 =
-* fixed bugs in cart adn customer tracking were
-* added notice about conflicting LiveChat plugin
-
-= 2.0.0 =
-* revised in-admin signup/login page view
-* introducing a new way of creating accounts in LiveChat
-* added the possibility of creating or logging into a LiveChat account to all users in WordPress
