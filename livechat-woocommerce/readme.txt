@@ -1,9 +1,9 @@
 === WordPress Live Chat Plugin for WooCommerce - LiveChat ===
 Contributors: LiveChat
 Tags: woocommerce, chat plugin, live chat, woocommerce live chat, wordpress live chat
-Stable tag: 5.0.2
+Stable tag: 5.0.3
 Requires PHP: 7.2
-Tested up to: 6.8
+Tested up to: 6.8.1
 Requires at least: 4.4
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -156,6 +156,9 @@ Yes. Use our live chat to monitor multiple websites using a single account, and 
 5. Engage shoppers anytime, anywhere with LiveChat's Mobile App.
 
 == Changelog ==
+
+= 5.0.3 =
+* fixed WooCommerce cart tracking issue
 
 = 5.0.2 =
 * checked plugin compatibility with WordPress 6.8
