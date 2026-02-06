@@ -1,9 +1,9 @@
 === Live Chat Plugin for WooCommerce - LiveChat ===
 Contributors: LiveChat
 Tags: woocommerce, chat plugin, live chat, woocommerce live chat, wordpress live chat
-Stable tag: 5.0.8
+Stable tag: 5.0.11
 Requires PHP: 7.2
-Tested up to: 6.8.1
+Tested up to: 6.9
 Requires at least: 4.4
 License: GNU General Public License v3.0
 License URI: http://www.gnu.org/licenses/gpl-3.0.html
@@ -14,7 +14,7 @@ Live chat and help desk software plugin for WooCommerce. Add live chat to your W
 
 = WooCommerce Live Chat =
 
-With the live chat plugin for WooCommerce by LiveChat, you **allow customers to talk to you directly** from your WooCommerce website. Address any questions instantly, and send prompt replies about shipping or return policies to **give customers the confidence needed to complete a purchase**.
+With [the live chat plugin for WooCommerce](https://www.livechat.com/woocommerce-chat-ai/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing) by Text, you **allow customers to talk to you directly** from your WooCommerce website. Address any questions instantly, and send prompt replies about shipping or return policies to **give customers the confidence needed to complete a purchase**.
 
 https://www.youtube.com/watch?v=u7yPEZyRzRw
 
@@ -43,13 +43,13 @@ Engage website visitors in real time. Offer assistance, capture new sales opport
 
 = Usage =
 
-Install our live chat plugin to add a live chat option to your WooCommerce store. This will automatically embed the live chat code on all your WooCommerce store pages. Once you've installed LiveChat, download our desktop app for [Windows](https://www.livechatinc.com/applications/livechat-for-windows/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing) or [Mac OS](https://www.livechatinc.com/applications/livechat-for-mac/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing). Use our [web-based app](https://www.livechatinc.com/applications/livechat-web-app/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing) if you prefer, with no additional software required to make it work. Chat on the go. Don't make your customers wait and talk to them wherever you are, thanks to our [iOS](https://www.livechatinc.com/applications/livechat-for-iphone/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing) and [Android](https://www.livechatinc.com/applications/livechat-for-android/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing) apps.
+Install our live chat plugin to add a live chat option to your WooCommerce store. This will automatically embed the live chat code on all your WooCommerce store pages. Once you've installed LiveChat, download our desktop app for [Windows](https://www.livechatinc.com/applications/livechat-for-windows/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing) or [Mac OS](https://www.livechatinc.com/applications/livechat-for-mac/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing). Use our [web-based app](https://www.livechatinc.com/applications/livechat-web-app/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing) if you prefer, with no additional software required to make it work. Chat on the go. Don't make your customers wait and talk to them wherever you are, thanks to our [iOS](https://www.livechatinc.com/applications/livechat-for-iphone/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing) and [Android](https://www.livechatinc.com/applications/livechat-for-android/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing) apps.
 
 == Live Chat installation ==
 
 https://www.youtube.com/watch?v=LhNBndg2idk
 
-With this WooCommerce plugin, there are many other features that can help you **close more sales** and **satisfy more customers**; you can see all of them [here](https://www.livechatinc.com/features/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing).
+With this WooCommerce plugin, there are many other features that can help you **close more sales** and **satisfy more customers**; you can see all of them [here](https://www.livechatinc.com/features/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing).
 
 == Notes ==
 
@@ -57,9 +57,9 @@ With this WooCommerce plugin, there are many other features that can help you **
 
 The WooCommerce live chat plugin by LiveChat is free, but you need to be a LiveChat customer to use it. LiveChat comes with a free trial, allowing you to test the service for 14 days.
 
-Take a look at LiveChat plans and features on our [website](https://www.livechatinc.com/pricing/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing). Provide on-site support and sell more with the WooCommerce live chat plugin by LiveChat.
+Take a look at LiveChat plans and features on our [website](https://www.livechatinc.com/pricing/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing). Provide on-site support and sell more with the WooCommerce live chat plugin by LiveChat.
 
-[Sign up for LiveChat](https://www.livechatinc.com/signup/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing)
+[Sign up for LiveChat](https://www.livechatinc.com/signup/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing)
 
 = Localization =
 
@@ -73,20 +73,20 @@ You want to open a LiveChat account for a client? Expand your business offer by 
 
 == Testimonials ==
 
->We frequently have leads chat with us asking some qualifying questions, and then they eventually sign up online or over the phone. These are sales that we might not have had if LiveChat wasn’t an option ([read more](https://www.livechat.com/customers/customer-stories/patlive/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing)).
+>We frequently have leads chat with us asking some qualifying questions, and then they eventually sign up online or over the phone. These are sales that we might not have had if LiveChat wasn’t an option ([read more](https://www.livechat.com/customers/customer-stories/patlive/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing)).
 
 - **Jamie Lowary, a sales lead at PATLive**
 
->At the moment, **LiveChat remains the mostly used tool when it comes to contacting our support**. Because of how easy we made it for users to access it, we help over 750 of them each day with an average satisfaction of 96% ([read more](https://www.livechat.com/customers/customer-stories/kinguin/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing)).
+>At the moment, **LiveChat remains the mostly used tool when it comes to contacting our support**. Because of how easy we made it for users to access it, we help over 750 of them each day with an average satisfaction of 96% ([read more](https://www.livechat.com/customers/customer-stories/kinguin/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing)).
 
 - **Michal Haze, Head of Customer Experience at Kinguin**
 
 == Documentation and Support ==
 
-* For documentation and tutorials go to our [help desk article](https://www.livechatinc.com/kb/woocommerce-add-livechat-to-your-store/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing).
-* If you have any more questions, start a live chat session with our support on the [WooCommerce integration page](https://www.livechatinc.com/marketplace/apps/woocommerce/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing).
-* For more information about live chat features, FAQs and documentation, check out our [website](https://www.livechatinc.com/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing).
-* If interested, you can join our community group [here](https://www.livechatinc.com/community/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing).
+* For documentation and tutorials go to our [help desk article](https://www.livechatinc.com/kb/woocommerce-add-livechat-to-your-store/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing).
+* If you have any more questions, start a live chat session with our support on the [WooCommerce integration page](https://www.livechatinc.com/marketplace/apps/woocommerce/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing).
+* For more information about live chat features, FAQs and documentation, check out our [website](https://www.livechatinc.com/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing).
+* If interested, you can join our community group [here](https://www.livechatinc.com/community/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing).
 
 == About us ==
 
@@ -96,17 +96,17 @@ The products serve more than 41,000 businesses from 150 countries. The company�
 
 = The Text ecosystem =
 
-The ecosystem of [Text](https://text.com/?utm_source=wordpress.org&utm_medium=integration&utm_campaign=WordpressIntegration) products includes:
-- **[LiveChat](https://www.livechat.com/?utm_source=wordpress.org&utm_medium=integration&utm_campaign=WordpressIntegration)** - a communication tool that allows you to chat live with your customers
-- **[HelpDesk](https://www.helpdesk.com/?utm_source=wordpress.org&utm_medium=integration&utm_campaign=WordpressIntegration)** - an online ticketing system suitable both for small businesses and enterprise clients
-- **[ChatBot](https://www.chatbot.com/?utm_source=wordpress.org&utm_medium=integration&utm_campaign=WordpressIntegration)** - a bot framework for AI chat bots - official [ChatBot plugin page](https://wordpress.org/plugins/chatbot-com-ai-platform/)
-- **[Knowledge Base](https://www.knowledgebase.com/?utm_source=wordpress.org&utm_medium=integration&utm_campaign=WordpressIntegration)** - a public Help Center widget
-- **[Open Widget](https://openwidget.com/?utm_source=wordpress.org&utm_medium=integration&utm_campaign=WordpressIntegration)** - free widgets for website - official [OpenWidget plugin page](https://wordpress.org/plugins/free-customer-service-tools-by-openwidget/)
-- **[Text Messaging Platform](https://platform.text.com/?utm_source=wordpress.org&utm_medium=integration&utm_campaign=WordpressIntegration)** - chat platform for innovative teams
+The ecosystem of [Text](https://text.com/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing) products includes:
+- **[LiveChat](https://www.livechat.com/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing)** - a communication tool that allows you to chat live with your customers
+- **[HelpDesk](https://www.helpdesk.com/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing)** - an online ticketing system suitable both for small businesses and enterprise clients
+- **[ChatBot](https://www.chatbot.com/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing)** - a bot framework for AI chat bots - official [ChatBot plugin page](https://wordpress.org/plugins/chatbot-com-ai-platform/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing)
+- **[Knowledge Base](https://www.knowledgebase.com/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing)** - a public Help Center widget
+- **[Open Widget](https://openwidget.com/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing)** - free widgets for website - official [OpenWidget plugin page](https://wordpress.org/plugins/free-customer-service-tools-by-openwidget/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing)
+- **[Text Messaging Platform](https://platform.text.com/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing)** - chat platform for innovative teams
 
 = Press & Brand Assets =
 
-If you are interested in writing about Text products, take a look at the [Text Press Office](https://text.com/press/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing). Download our logo, screenshots, and other relevant assets.
+If you are interested in writing about Text products, take a look at the [Text Press Office](https://text.com/press/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing). Download our logo, screenshots, and other relevant assets.
 
 == Installation ==
 
@@ -117,32 +117,32 @@ If you are interested in writing about Text products, take a look at the [Text P
 5. Create a new LiveChat account, or use your existing one.
 6. Choose which custom variables will be passed to LiveChat and get ready to chat.
 
-For more detailed instructions, go to the [live chat plugin page](https://www.livechatinc.com/kb/woocommerce-add-livechat-to-your-store/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing).
+For more detailed instructions, go to the [live chat plugin page](https://www.livechatinc.com/kb/woocommerce-add-livechat-to-your-store/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing).
 
 == Frequently Asked Questions ==
 
 = Do you offer a free trial? =
 We do. Try out all features of our live chat plugin for free for 14 days.
 
-[Sign up for LiveChat!](https://www.livechatinc.com/signup/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing)
+[Sign up for LiveChat!](https://www.livechatinc.com/signup/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing)
 
 = Do I need to install any additional software to use LiveChat? =
 No. LiveChat works in a Software as a Service model and doesn’t require any extra service to work.
 
 = Can I place live chat on Facebook? =
-You can add a live chat option to your Facebook page that will open a whole new channel for your customers. Read more about the LiveChat integration with Facebook [here](https://www.livechatinc.com/kb/adding-live-chat-to-facebook/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing).
+You can add a live chat option to your Facebook page that will open a whole new channel for your customers. Read more about the LiveChat integration with Facebook [here](https://www.livechatinc.com/kb/adding-live-chat-to-facebook/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing).
 
 = Can I customize the look of the live chat widget? =
 For sure! Some of the things you can do with the chat window include: choosing the live chat widget theme, uploading your company changing default greeting message, and much more.
 
 = Does your live chat software support other languages?
-LiveChat has been translated into 43 languages, including English, French, Spanish, Portuguese (...). You can learn more about the supported languages [here](https://www.livechatinc.com/kb/how-to-modify-chat-window-language/?a=woocommerce&utm_source=woocommerce.com&utm_medium=integration&utm_campaign=woocommerceplugin).
+LiveChat has been translated into 43 languages, including English, French, Spanish, Portuguese (...). You can learn more about the supported languages [here](https://www.livechatinc.com/kb/how-to-modify-chat-window-language/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing).
 
 = Can I stay connected to my customers while on the go? =
-With our [mobile live chat apps](https://www.livechatinc.com/kb/stay-mobile-with-livechat/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing) for iPhone, iPad and Android you can chat everywhere: in a car, at home or while shopping.
+With our [mobile live chat apps](https://www.livechatinc.com/kb/stay-mobile-with-livechat/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing) for iPhone, iPad and Android you can chat everywhere: in a car, at home or while shopping.
 
 = Can I initiate chats before my website visitors do? =
-It is possible to send [proactive chats](https://www.livechatinc.com/kb/why-should-i-set-up-chat-greetings/?a=woocommerce&utm_source=woocommerce.com&utm_medium=referral&utm_campaign=wordpress_listing) to your website visitors based on “live chat triggers”, such as the number of visited pages or time spent on the website.
+It is possible to send [proactive chats](https://www.livechatinc.com/kb/why-should-i-set-up-chat-greetings/?utm_source=wordpress.org&utm_medium=referral&utm_campaign=woocommerce_listing) to your website visitors based on “live chat triggers”, such as the number of visited pages or time spent on the website.
 
 = Can I use this plugin to place live chat on several websites? =
 Yes. Use our live chat to monitor multiple websites using a single account, and customize the look of the live chat widget individually for each website.
@@ -156,6 +156,17 @@ Yes. Use our live chat to monitor multiple websites using a single account, and 
 5. Engage shoppers anytime, anywhere with LiveChat's Mobile App.
 
 == Changelog ==
+
+= 5.0.11 =
+* Fixed TypeError in WooCommerce cart integration when variant data has unexpected format
+
+= 5.0.10 =
+* Fixed trailing slash in plugin URL
+* Tested plugin compatibility with WordPress 6.9
+
+= 5.0.9 =
+* Confirmed plugin compatibility with WordPress 6.8.3
+* Updated plugin description for improved clarity
 
 = 5.0.8 =
 * Updated plugin tags for improved clarity and WordPress compatibility
