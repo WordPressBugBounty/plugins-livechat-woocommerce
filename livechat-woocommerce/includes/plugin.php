@@ -451,7 +451,7 @@ function text_load_widget(): void {
 		array(),
 		TEXT_PLUGIN_VERSION,
 		array(
-			'async'     => true,
+			'strategy'  => 'async',
 			'in_footer' => true,
 		)
 	);
@@ -475,7 +475,7 @@ function text_load_legacy_widget(): void {
 		array(),
 		TEXT_PLUGIN_VERSION,
 		array(
-			'async'     => true,
+			'strategy'  => 'async',
 			'in_footer' => true,
 		)
 	);

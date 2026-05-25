@@ -1,5 +1,8 @@
 == Changelog ==
 
+= 5.0.12 =
+* Fixed incorrect async argument format in wp_enqueue_script calls
+
 = 5.0.11 =
 * Fixed TypeError in WooCommerce cart integration when variant data has unexpected format
 
